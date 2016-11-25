@@ -113,6 +113,7 @@ Largely organised by CS Focus Areas
   * [AY2014/2015 Website by Aaron Tan](http://www.comp.nus.edu.sg/~cs2100/)
 * **CS2106 Introduction to Operating Systems**
   * [2011 Course Page by Prof Ooi Wei Tsang](http://blog.nus.edu.sg/cs2106/about/)
+  * [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
 
 
 ### Algorithms and Theory
@@ -161,6 +162,7 @@ Largely organised by CS Focus Areas
   * [Bayesian Modelling in Python](https://github.com/markdregan/Bayesian-Modelling-in-Python)
   * [The Essentials of Machine Learning](https://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/)
   * [Machine Learning MIT OpenCourseware](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-867-machine-learning-fall-2006/)
+  * [A library for Gaussian Optimization implemented in python, GPyOpt](https://github.com/SheffieldML/GPyOpt)
 * **CS5228 Knowledge Discovery and Data Mining** 
   * [The 2014 page](http://www1.i2r.a-star.edu.sg/~jspan/courses/nus/CS5228.htm)
   * [Recommender Systems and Social Web 2014](http://ls13-www.cs.uni-dortmund.de/homepage/rsweb2014/acceptedpapers.shtml)
@@ -210,19 +212,25 @@ Largely organised by CS Focus Areas
   * [Unreal Engine Reddit Thread](https://www.reddit.com/r/unrealengine/)
   * [A long list of Game Development Tutorials for Beginners](https://gamedevelopment.tutsplus.com/articles/40-fantastic-game-development-tutorials-from-across-the-web--gamedev-3384)
   * [Free videos on GDC Vault](http://www.gdcvault.com/free)
+  * [PixelProspector.com - The Indie Goldmine](http://www.pixelprospector.com/)
 * **CS3249 User Interface Development**
   * [Module Website](http://www.comp.nus.edu.sg/~cs3249/)
   * [Qt Download Site](https://www.qt.io/download-open-source/)
   * [Official Qt Documentation](http://doc.qt.io/)
 * **CS4243 Computer Vision and Pattern Recognition**
   * [Computer Vision: Algorithms and Applications by Szeliski](http://szeliski.org/Book/)
-  * [OpenCV](opencv.org/)
+  * [OpenCV](http://opencv.org/)
   * [OpenCVSharp, a C# Wrapper for OpenCV](https://github.com/shimat/opencvsharp)
   * [EE4212 Computer Vision](https://courses.nus.edu.sg/course/eleclf/ee4212/)
   * [CS4243 Lab Answers](https://github.com/yangshun/cs4243-labs)
   * [Sample Project source code](https://github.com/yangshun/cs4243-project)
 * **CS4347 Sound and Music Computing** 
   * [NUS SMC Lab](http://www.smcnus.org)
+* **CS4350 Game Development Project**
+  * [Resources for Unreal Engine](http://layoutvr.com/)
+  * [Resources for Maya Beginners](http://www.worldofleveldesign.com/categories/cat_3dmodeling.php)
+  * [Maya - Modeling, particle, lightning, rendering of various levels with samples](http://www.hongkiat.com/blog/100-maya-3d-tutorials-beginners-intermediate-advanced-users/)
+  * [Maya - Box modelling a human head:(Just for reference. To show that everything can be modeled from a box. Nowadays we no longer do such complicated model in Maya)](http://www.swinburne.edu.au/design/tutorials/P-maya/T-Maya-Modeling-Box-modeling-a-human-head/ID-172/)
 * **CS5240 Theoretical Foundations in Multimedia Computing** 
   * [AY2015/16 Website by Prof Leow Wee Kheng](http://www.comp.nus.edu.sg/~cs5240/index.html)
 * **CS5233 Simulation and Modelling Techniques** 
@@ -278,6 +286,7 @@ Largely organised by CS Focus Areas
 * [Google Material Design Principles](https://www.google.com/design/spec/material-design/introduction.html)
 * [Collated List of Android Resources](https://github.com/snowdream/awesome-android)
 * [Awesome Android](https://github.com/snowdream/awesome-android)
+* [CodePath's Guide to Android](http://guides.codepath.com/android)
 
 ##### iOS Development
 * [Objective-C online video course by Stanford University](https://itunes.apple.com/en/course/developing-ios-7-apps-for/id733644550)
@@ -318,8 +327,10 @@ Largely organised by CS Focus Areas
 * [List of Front End Feeds](https://github.com/impressivewebs/frontend-feeds)
 * [Front End Development Bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)
 
-##### Learning AngularJS
-* [Getting started](https://angularjs.org/)
+##### Learning AngularJS and Angular 2
+* [Getting started on AngularJS](https://angularjs.org/)
+* [Getting started on Angular 2](https://angular.io/)
+* ['Differences between AngularJS and Angular 2' on Quora](https://www.quora.com/What-is-the-difference-between-AngularJs-and-Angular-2)
 * [AngularJS tutorial by Tutorialspot](http://www.tutorialspoint.com/angularjs/index.htm)
 * [Free basic course from Codeschool](http://campus.codeschool.com/courses/shaping-up-with-angular-js/intro)
 * [Codecademy's Learn AngularJS course](http://www.codecademy.com/en/learn/learn-angularjs)
@@ -489,6 +500,7 @@ Other Modules, IDEs, Resources, Cool Stuff, ...
 * [The Last Lecture by Randy Pausch](https://www.youtube.com/watch?hl=en-GB&v=ji5_MqicxSo)
 * [Notes to NUS Freshmen from the Future, written by some Seniors](https://docs.google.com/document/d/1FbCWcnnajHWk594dKmN35b_we50WZf_-cwxqg-cYaRY/edit?usp=sharing)
 * [Slack off From Your Job Today and spend some time giggling](http://programmingisterrible.com/post/72437339273/james-mickens-the-funniest-person-in-microsoft)
+* [Collection of articles, videos, and resources made by designers at Facebook](http://facebook.design/)
 
 #### Troubleshoot
 * [How to properly update Java (Windows)](https://github.com/chanjunweimy/JDK_PATH_FIXER)
