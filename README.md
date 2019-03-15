@@ -33,22 +33,25 @@ Largely organised by CS Focus Areas
 * [Collation of NUS related links](https://bit.ly/BiddingHelp/)
 * [NUS Computing Slack](http://nuscomputing.slack.com)
 * [Introduction to Sunfire](http://www.comp.nus.edu.sg/~cs1101x/3_ca/labs/lab0/unix_intro.html)
-* [Basic Vim commands](resources/Misc/Vim commands.docx) & [Switch to Vim for Good](https://gist.github.com/bpierre/0a0025d348b6001394e0?utm_content=bufferfd053&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
-* [Basic UNIX commands](resources/Misc/UNIX commands.docx)
+* [Basic Vim commands](https://github.com/quarbby/links-and-resources/blob/master/resources/Vim%20commands.docx) & [Switch to Vim for Good](https://gist.github.com/bpierre/0a0025d348b6001394e0?utm_content=bufferfd053&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+* [Basic UNIX commands](https://github.com/quarbby/links-and-resources/blob/master/resources/UNIX%20commands.docx)
 * [Resources for Freshman by Mr. Aaron Tan](http://www.comp.nus.edu.sg/~cs1010/4_misc/freshmen.html)
 * [ReadPeer IVLE for reading and organising IVLE notes](http://ivle.readpeer.com)
-* [Foundation Of Computer Science(Online Textbook](http://i.stanford.edu/~ullman/focs.html)
+* [Foundation Of Computer Science(Online Textbook)](http://i.stanford.edu/~ullman/focs.html)
 
 ### Learning to Program
 
 ##### Learning the Command Line
 * [Bash Handbook on Github](https://github.com/denysdovhan/bash-handbook)
 * [Vogella Github handbook](http://www.vogella.com/tutorials/Git/article.html)
+* [Learn Enough Command Line to be Dangerous](https://www.learnenough.com/command-line-tutorial)
+* [MS Dos Basics](http://people.uncw.edu/pattersone/121/labs/L1_MSDOS_Primer.pdf)
+* [Powershell Basics](http://powershelltutorial.net/): It would be a plus if you know C# prior!
 
 ##### Learning C
 * **CS1010 Programming Methodology** 
   * [Website for AY2015/2016](http://www.comp.nus.edu.sg/~cs1010/)
-  * [Jin Zhe's condensed notes](resources/CS1010/CS1010 NOTES.docx)
+  * [Jin Zhe's condensed notes](https://github.com/quarbby/links-and-resources/blob/master/resources/CS1010/CS1010%20NOTES.docx)
 * **Learning C in Chinese**
   * [Course from Peking University](https://www.coursera.org/course/spc)
 
@@ -76,6 +79,9 @@ Largely organised by CS Focus Areas
     * [OpenGL bascis guide](http://open.gl/)
     * [NeHe Computer Graphics Tutorial](http://nehe.gamedev.net/)
     * [Learn OpenGL](http://learnopengl.com/)
+    * [Links Every Programmer Should Know](https://github.com/mr-mig/every-programmer-should-know)
+	* [Computer Graphics Principles and Practices](https://www.goodreads.com/book/show/603227.Computer_Graphics)
+	* [Mathematics for 3D Game Programming and Computer Graphics](https://www.goodreads.com/book/show/10436065-mathematics-for-3d-game-programming-and-computer-graphics)
 
 ##### Learning "C#"
 * **Learning C# in English**
@@ -99,8 +105,8 @@ Largely organised by CS Focus Areas
 * **CS1020 & CS2010 Data Structures and Algorithms**
   * [Website for AY 2013/14](http://www.comp.nus.edu.sg/~cs1020/)
   * [Online Java IDE](http://www.tutorialspoint.com/compile_java_online.php)
-  * [Jin Zhe's condensed notes for CS1020](resources/CS1020/CS1020 NOTES.docx)
-  * [CS1020 UML conventions](resources/CS1020/UML NOTES.docx)
+  * [Jin Zhe's condensed notes for CS1020](https://github.com/quarbby/links-and-resources/blob/master/resources/CS1020/CS1020%20NOTES.docx)
+  * [CS1020 UML conventions](https://github.com/quarbby/links-and-resources/blob/master/resources/CS1020/UML%20NOTES.docx)
 * **Learning Java in Chinese**
   * [Course from Peking University](https://www.coursera.org/course/pkujava)
 * **Learning more about algorithms**
@@ -140,8 +146,8 @@ Largely organised by CS Focus Areas
   * [UVa Online Judge solutions to some problems](https://github.com/ksaveljev/UVa-online-judge)
 * **CS4232 Theory of Computation**
   * [1516 Semester 1 Module Website by Frank Stephan](http://www.comp.nus.edu.sg/~fstephan/theoryofcomputation.html)
-  * [Related Stanford course in Coursera](https://www.coursera.org/course/automata)
-  
+  * [Shai Simonson's course playlist](https://www.youtube.com/playlist?list=PL7HjUNIdk93ThXvz2Oa_g30Jt3Owwm4HZ)
+
 ### Artificial Intelligence 
 * **CS3243 Introduction to Artificial Intelligence**
   * [Textbook used: Artificial Intelligence A Modern Approach](http://51lica.com/wp-content/uploads/2012/05/Artificial-Intelligence-A-Modern-Approach-3rd-Edition.pdf)
@@ -173,6 +179,14 @@ Largely organised by CS Focus Areas
   * [60 Free Data Science Books](http://www.kdnuggets.com/2015/09/free-data-science-books.html)
 * **CS5340 Uncertainity Modelling in AI** 
   * [The 2015/2016 Course page by Dr Cheng Li](http://web.bii.a-star.edu.sg/~chengli/courses/CS5340-F15/)
+* **CS5246 Text Processing on the Web**
+  * [The 2008/2009 Course page by Dr Min](http://www.comp.nus.edu.sg/~kanmy/courses/5246_2008/)
+* **CS6101 Deep Learning for Vision**
+  * [The 2017 Course page by Dr Min](http://www.comp.nus.edu.sg/~kanmy/courses/6101_2017/)
+  * [Stanford Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/syllabus.html)
+  * [Tensorflow Models Zoo](https://github.com/tensorflow/models/)
+  * [Consice Tensorflow Examples](https://github.com/aymericdamien/TensorFlow-Examples)
+
 
 ### Computer Networks 
 * **CS2105 Introduction to Computer Networks** 
@@ -252,6 +266,7 @@ Largely organised by CS Focus Areas
 * **CS4248 Natural Language Processing**
   * [Columbia University Topics in Speech Processing: Computational Approaches to Emotional Speech by Julia Hirschberg](http://www.cs.columbia.edu/~julia/courses/CS6998/syllabus11.htm)
   * [Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/index.html)
+  * [Github repositiory for Deep Learning for NLP](https://github.com/rouseguy/DeepLearning-NLP)
 
 ### Parallel Computing
 * **CS3210 Parallel Computing** 
@@ -272,6 +287,7 @@ Largely organised by CS Focus Areas
   * [C++ Coding Conventions by Google](https://google-styleguide.googlecode.com/svn/trunk/cppguide.html)
   * [Design Patterns Explained](http://cdn.preterhuman.net/texts/manuals/Addison%20Wesley%20-%20Design%20Patterns%20Explained%20(2001).pdf)
   * [Begineer's Guide to Design Patterns](http://code.tutsplus.com/articles/a-beginners-guide-to-design-patterns--net-12752)
+  * [The Mythical Man-Month. Essays on Software Engineering](https://is.muni.cz/www/208322/The.Mythical.Man.Month.F.Brooks.pdf)
 * **CS3216 Software Development for Digital Markets**
   * [Official Home Page](http://www.cs3216.com)
   * [On CS3216/CS3217 and Elitism](https://www.facebook.com/notes/ben-leong/on-cs3216cs3217-and-elitism/10153053255577549)
@@ -326,6 +342,7 @@ Largely organised by CS Focus Areas
 #### Frontend Languages and Frameworks 
 * [List of Front End Feeds](https://github.com/impressivewebs/frontend-feeds)
 * [Front End Development Bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)
+* [2017 Angular vs React vs Vue](https://medium.com/unicorn-supplies/angular-vs-react-vs-vue-a-2017-comparison-c5c52d620176)
 
 ##### Learning AngularJS and Angular 2
 * [Getting started on AngularJS](https://angularjs.org/)
@@ -340,25 +357,32 @@ Largely organised by CS Focus Areas
 * [AngularJS YouTube channel](https://www.youtube.com/user/angularjs)
 * [More links](http://stackoverflow.com/questions/14333857/how-to-master-angularjs)
 
+##### Learning React
+* [Get Started with Create-React-App](https://github.com/facebookincubator/create-react-app)
+* [Official React Tutorial](https://github.com/reactjs/react-tutorial)
+
 ### Technical Interviews
+
 #### Relevant Resources
-* [Engineering Blogs collated](https://github.com/prakhar1989/system-design-interview)
+* [System Design Interview](https://github.com/checkcheckzz/system-design-interview)
 * [LeetCode](https://leetcode.com/)
-* [CarrerCup](http://www.careercup.com/)
+* [CareerCup](http://www.careercup.com/)
 * [GeeksforGeeks](http://www.geeksforgeeks.org/)
 * Also see competitive programming platforms under **CS3233 Competitive Programming**
 * Jin Zhe's practices in Java (if it's of any help)
- * [Algorithms](https://github.com/spyrant/algorithms)
- * [Data-structures](https://github.com/spyrant/data-structures)
- * [What happens when you type google.com into your browser and press enter?](https://github.com/alex/what-happens-when)
- * [How would you implement Google Search?](http://programmers.stackexchange.com/questions/38324/how-would-you-implement-google-search)
+  * [Algorithms](https://github.com/spyrant/algorithms)
+  * [Data-structures](https://github.com/spyrant/data-structures)
+* [What happens when you type google.com into your browser and press enter?](https://github.com/alex/what-happens-when)
+* [How would you implement Google Search?](http://programmers.stackexchange.com/questions/38324/how-would-you-implement-google-search)
 * [Job Puzzles](https://github.com/SITZ/JobPuzzles)
 * [Github Awesome Interviews](https://github.com/MaximAbramchuck/awesome-interviews)
 * [Technical Interviews Study Resources](https://github.com/jdsutton/Technical-Interview-Megarepo)
 * [Top Coder revision](https://www.topcoder.com/community/data-science/data-science-tutorials/dynamic-programming-from-novice-to-advanced/)
-* [Hacker Rank Cracking the Coding Interview Practices](https://www.hackerrank.com/domains/tutorials/cracking-the-coding-interview?utm_medium=email&utm_source=hackerrank&utm_campaign=ctci-welcome-email&utm_content=tutorial-link)
+* [Hacker Rank Cracking the Coding Interview Practices](https://www.hackerrank.com/domains/tutorials/cracking-the-coding-interview)
 * [Algorithms tutorials by Top Coder's Data Science Community](https://www.topcoder.com/community/data-science/data-science-tutorials/)
 * [Lots of Cheatsheets from LifeHacker](http://www.lifehacker.com.au/2016/10/every-programming-cheat-sheet-a-developer-could-ever-want/)
+* [Yang Shun's Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
+* [Programming Interviews Exposed](https://github.com/liwei606/interview/blob/master/Programming%20Interviews%20Exposed%203rd.pdf)
 
 #### Google
 * [From a Googler: the Google interview process (**MUST READ**)](https://www.reddit.com/r/cscareerquestions/comments/1z97rx/from_a_googler_the_google_interview_process)
@@ -387,10 +411,14 @@ Largely organised by CS Focus Areas
 * **MA1521 Calculus for Computing** 
   * [Extra Resources (in Chinese)](https://www.dropbox.com/s/k7sflzv5z67ye29/%E5%BE%AE%E7%A7%AF%E5%88%86%E4%B9%8B%E5%80%9A%E5%A4%A9%E5%AE%9D%E5%89%91.pdf?dl=0)
   * [Final Exam Helpsheet, NWS's Syllabus](https://www.dropbox.com/s/ec4dgu7v7grima4/MA1521%20Final%20Exam%20Helpsheet%20v3-public.pdf?dl=0)
+  * [Final Exam Cheatsheet](https://github.com/ChrisKheng/Academics/blob/master/MA1521%20Finalised%20Cheatsheet.pdf)
 * **MA1101R Linear Algebra I** 
   * Textbook: Linear Algebra: Concepts and Techniques on Euclidean Spaces by Ng Kah Loon. Can only buy at NUS Co-Op
   * [A textbook from UBC that serves its purpose](http://www.math.ubc.ca/~carrell/NB.pdf)
   * [Stanford CS229 Linear Algebra Review](http://cs229.stanford.edu/section/cs229-linalg.pdf)
+  * [Final Exam Cheatsheet](https://github.com/ChrisKheng/Academics/blob/master/MA1101R%20Final%20Cheatsheet.docx)
+  * [Lab Quiz Cheatsheet](https://github.com/ChrisKheng/Academics/blob/master/MA1101R%20Final%20Cheatsheet.docx)
+  
 * **MA2213 Numerical Analysis** 
   * [Numerical Methods in Matlab](http://www.math.ohiou.edu/courses/math3600/book.pdf)
   * [Introduction to Numerical Analysis, MIT OpenCourseWare Spring 2012](http://ocw.mit.edu/courses/mathematics/18-330-introduction-to-numerical-analysis-spring-2012/)
@@ -400,7 +428,7 @@ Largely organised by CS Focus Areas
   * [One whole long pdf of notes](http://www.stat.nus.edu.sg/~staja/st2334/notes_st2334.pdf)
   * [WZChen Probability Cheatsheet](http://www.wzchen.com/probability-cheatsheet)
 * **ST2132 Mathematical Statistics** 
-  * [Textbook: Mathematical Analysis and Statistics by John Rice](ftp://nozdr.ru/biblioteka/kolxo3/M_Mathematics/MV_Probability/MVsa_Statistics%20and%20applications/Rice%20J.A.%20Mathematical%20statistics%20and%20data%20analysis%20(3ed.,%20Duxbury,%202006)(ISBN%200534399428)(O)(685s)_MVsa_.pdf)
+  * [Textbook: Mathematical Analysis and Statistics by John Rice](https://gettextbook.download/Stats%20100B/Rice%20J.A.%20Mathematical%20statistics%20and%20data%20analysis%20(3rd).pdf)
 * **ST2137 Computer Aided Data Analysis** 
   * [AY2013/2014 Course Webpage](http://www.stat.nus.edu.sg/~zhangjt/teaching/ST2137/ST2137.htm)
 * **ST4234 Bayesian Statistics** 
@@ -425,9 +453,9 @@ Largely organised by CS Focus Areas
 #### General Education modules
 * GEK1505 Living With Mathematics (It is similar to CS1231)
 * **GEK1508 Einstein's Universe & Quantum Weirdness** 
-  * [Jin Zhe's notes](resources/GEK1508/GEK1508 NOTES.docx)
+  * [Jin Zhe's notes](https://github.com/quarbby/links-and-resources/blob/master/resources/GEK1508/GEK1508%20NOTES.docx)
 * **GEK1509 Introduction To The Nanoworld** 
-  * [Jin Zhe's notes](resources/GEK1509/GEK1509 NOTES.docx)
+  * [Jin Zhe's notes](https://github.com/quarbby/links-and-resources/blob/master/resources/GEK1509/GEK1509%20NOTES.docx)
 * **GEK1520/ PC1322 Understanding the Universe** 
   * [A Dropbox Resource](https://www.dropbox.com/sh/o7kkt8tymswm112/AAAFWvRYZOLgvjAKonFQGg3za?dl=0)
 * [GEM1537 Nanotechnology For Everyone - From Smart Phone, Innovation to Entrepreneurship - Shaping the Future](https://onedrive.live.com/redir?resid=FDAC10ED2A7F277D!81447&authkey=!AALaJkSUGDWEiog&ithint=folder%2cpdf)
@@ -449,7 +477,7 @@ Other Modules, IDEs, Resources, Cool Stuff, ...
 
 #### Other Modules
 * PH1102E Introduction to Philosophy
- * [Jin Zhe's summarized notes](resources/PH1102E/PH1102E NOTES.docx)
+ * [Jin Zhe's summarized notes](https://github.com/quarbby/links-and-resources/blob/master/resources/PH1102E/PH1102E%20NOTES.docx)
  * [Abraham Kang's notes](https://www.scribd.com/collections/3409107/PH1102E)
 * CS2101 Effective Communication for Computing Professionals
  * [Reflections Blog by Ms Isabel Chew](http://blog.nus.edu.sg/isabel99/)
